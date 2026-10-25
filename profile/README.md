@@ -4,7 +4,7 @@
 
 <h2 align="center">Sanchay</h2>
 
-<p align="center">An open-source personal finance app and AI CFO for the Mac. Built for India, private by design.</p>
+<p align="center">An open-source AI money manager and personal finance manager for the Mac. Built for India, private by design.</p>
 
 <p align="center">
   <a href="https://github.com/ashwinsingh2007/sanchay"><b>ashwinsingh2007/sanchay</b></a> · <a href="https://sanchayhq.github.io">Website</a> · <a href="https://github.com/ashwinsingh2007/sanchay/releases/latest">Download for Mac</a>
